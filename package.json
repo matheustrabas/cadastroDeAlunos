@@ -12,6 +12,14 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
-    "mysql2": "^3.19.0"
-  }
+    "mysql2": "^3.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheustrabas/cadastroDeAlunos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matheustrabas/cadastroDeAlunos/issues"
+  },
+  "homepage": "https://github.com/matheustrabas/cadastroDeAlunos#readme"
 }
